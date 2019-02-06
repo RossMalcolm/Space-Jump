@@ -1,0 +1,3 @@
+To start the game, go to states and then playState.
+All the different states of the game are stored in states
+All of the game objects are stored in game
